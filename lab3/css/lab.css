@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+div#content {
+    padding: 50px;
+    background-color: teal;
+    border: solid 1px #333333;
+    height: 125vh;
+}
+body {
+  font-family: 'MedievalSharp', serif;
+  background-color: teal;
+      padding: 25px;
+      font-size: 120%;
+      color: red;
+
+}
