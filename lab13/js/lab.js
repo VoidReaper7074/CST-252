@@ -1,6 +1,5 @@
 /**
- * Author: Brooke Havens
- * Created:10/18/2021
+ * Author: Douglas  Pattison
  * License: Public Domain
  **/
 
