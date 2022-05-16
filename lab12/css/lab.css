@@ -1,27 +1,62 @@
-#challenge-btn {
-  background-color: lightblue;
-  color: white;
-}
+body {
+     font-family: "Glory";
+     background-color: black;
+     padding: 25px;
+     font-size: 22px;
+ }
+  img {
+    float: right;
+  }
 
-#problems-btn {
-  background-color: pink;
-  color: white;
-}
+ div#content {
+     padding: 8px;
+     background-color: lightgrey;
+     border: ridge 15px white;
+     outline-style: solid;
+     outline-color: invert;
+     height: 100%;
+ }
 
-#results-btn {
-  background-color: lightgreen;
-  color: white;
-}
+ #btn-red {
+   background-color: red;
+   color: white;
+ }
 
-.pinktext {
-  color: pink;
-}
+ #btn-green {
+   background-color: green;
+   color: white;
+ }
 
-.big {
-  font-size: 70px;
-}
+ #btn-blue {
+   background-color: blue;
+   color: white;
+ }
 
-.highlight {
-  background: lightyellow;
-  border: solid yellow;
-}
+ .red-text {
+   color: red;
+ }
+
+ .green-text{
+   color: green;
+ }
+
+ .blue-text{
+   color: blue;
+ }
+
+ a:link{
+     background-color: auto;
+ }
+
+ a:visited {
+   background-color: black;
+ }
+
+ a:hover {
+     text-decoration: underline;
+     background-color: #837A99;
+ }
+
+ a:active {
+   background-color: black;
+ }
