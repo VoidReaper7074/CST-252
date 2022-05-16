@@ -1,7 +1,6 @@
 /*
 * lab11\2.js - Advanced jQUery
-* Author: Raeann Anaya raanaya@csumb.edu>
-* Created: 13 October
+* Author: Douglas Pattison
 * License: Public Domain
 */
 
